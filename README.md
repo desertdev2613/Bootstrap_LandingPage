@@ -1,6 +1,10 @@
 Bootstrap_LandingPage
 
-This static site was created to show new developers what you can do with the basics: 
+This static site was created to show new developers what you can do with the basics. 
+
+<b>Tech Stack</b>
+<hr/>
+
 1. HTML 
 2. CSS 
 3. Bootstrap 

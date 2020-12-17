@@ -1,0 +1,21 @@
+
+.container {
+    background: white;
+}
+
+#mission p>span {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#mission .col-md-8>p {
+    margin-top:80px;
+}
+
+.card {
+background: black;
+}
+
+.fa {
+    color: gold;
+}
